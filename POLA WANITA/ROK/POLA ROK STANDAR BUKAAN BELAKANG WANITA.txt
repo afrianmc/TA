@@ -32,7 +32,7 @@
       polaRok3.add(new Node(pg[2].width/25+ 17.5 *2.5 +250, 430+ 1.1  *2.5)); //L
       polaRok3.add(new Node(pg[2].width/25+ 25.5 *2.5 +250, 430+ 1.5  *2.5)); //B
       polaRok3.add(new Node(pg[2].width/25+ 25.5 *2.5 +250, 430+ 46.5 *2.5)); //1
-      polaRok3.add(new Node(pg[2].width/25+ 30.5 *2.5 +250, 430+ 46.5  *2.5)); //2
+      polaRok3.add(new Node(pg[2].width/25+ 30.5 *2.5 +250, 430+ 46.5 *2.5)); //2
       polaRok3.add(new Node(pg[2].width/25+ 30.5 *2.5 +250, 430+ 56.5 *2.5)); //3
       polaRok3.add(new Node(pg[2].width/25+ 25.5 *2.5 +250, 430+ 56.5 *2.5)); //D
       polaRok3.add(new Node(pg[2].width/25- 0.5  *2.5 +250, 430+ 53.5 *2.5)); //H
@@ -45,7 +45,7 @@
       polaRok4.add(new Node(pg[2].width/25- 17.5 *2.5 +420, 430+ 1.1  *2.5)); //L
       polaRok4.add(new Node(pg[2].width/25- 25.5 *2.5 +420, 430+ 1.5  *2.5)); //B
       polaRok4.add(new Node(pg[2].width/25- 25.5 *2.5 +420, 430+ 46.5 *2.5)); //1
-      polaRok4.add(new Node(pg[2].width/25- 30.5 *2.5 +420, 430+ 46.5  *2.5)); //2
+      polaRok4.add(new Node(pg[2].width/25- 30.5 *2.5 +420, 430+ 46.5 *2.5)); //2
       polaRok4.add(new Node(pg[2].width/25- 30.5 *2.5 +420, 430+ 56.5 *2.5)); //3
       polaRok4.add(new Node(pg[2].width/25- 25.5 *2.5 +420, 430+ 56.5 *2.5)); //D
       polaRok4.add(new Node(pg[2].width/25+ 0.5  *2.5 +420, 430+ 53.5 *2.5)); //H
