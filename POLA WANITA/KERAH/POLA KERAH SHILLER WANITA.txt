@@ -1,0 +1,35 @@
+#POLA KERAH SHILLER WANITA(S)
+      polaAtasan1.add(new Node(pg[2].width/20+ 5    *3, 300+ 4.5  *3)); //C
+      polaAtasan1.add(new Node(pg[2].width/20+ 22   *3, 300+ 5    *3)); //A
+      polaAtasan1.add(new Node(pg[2].width/20+ 39   *3, 300+ 4.5  *3)); //C
+      polaAtasan1.add(new Node(pg[2].width/20+ 40.5 *3, 300+ 3.5  *3)); //G
+      polaAtasan1.add(new Node(pg[2].width/20+ 39   *3, 300+ 9.5  *3)); //E
+      polaAtasan1.add(new Node(pg[2].width/20+ 34   *3, 300+ 11   *3)); //F
+      polaAtasan1.add(new Node(pg[2].width/20+ 22   *3, 300+ 9.5  *3)); //B
+      polaAtasan1.add(new Node(pg[2].width/20+ 10   *3, 300+ 11   *3)); //F
+      polaAtasan1.add(new Node(pg[2].width/20+ 5    *3, 300+ 9.5  *3)); //E
+      polaAtasan1.add(new Node(pg[2].width/20+ 3.5  *3, 300+ 3.5  *3)); //G
+
+#POLA KERAH SHILLER WANITA(M)
+      polaAtasan1.add(new Node(pg[2].width/20+ 5    *3, 300+ 4.5  *3)); //C
+      polaAtasan1.add(new Node(pg[2].width/20+ 23   *3, 300+ 5    *3)); //A
+      polaAtasan1.add(new Node(pg[2].width/20+ 41   *3, 300+ 4.5  *3)); //C
+      polaAtasan1.add(new Node(pg[2].width/20+ 42.5 *3, 300+ 3.5  *3)); //G
+      polaAtasan1.add(new Node(pg[2].width/20+ 41   *3, 300+ 9.5  *3)); //E
+      polaAtasan1.add(new Node(pg[2].width/20+ 35   *3, 300+ 11   *3)); //F
+      polaAtasan1.add(new Node(pg[2].width/20+ 23   *3, 300+ 9.5  *3)); //B
+      polaAtasan1.add(new Node(pg[2].width/20+ 11   *3, 300+ 11   *3)); //F
+      polaAtasan1.add(new Node(pg[2].width/20+ 5    *3, 300+ 9.5  *3)); //E
+      polaAtasan1.add(new Node(pg[2].width/20+ 3.5  *3, 300+ 3.5  *3)); //G
+
+#POLA KERAH SHILLER WANITA(L)
+      polaAtasan1.add(new Node(pg[2].width/20+ 5    *3, 300+ 4.5  *3)); //C
+      polaAtasan1.add(new Node(pg[2].width/20+ 24   *3, 300+ 5    *3)); //A
+      polaAtasan1.add(new Node(pg[2].width/20+ 43   *3, 300+ 4.5  *3)); //C
+      polaAtasan1.add(new Node(pg[2].width/20+ 44.5 *3, 300+ 3.5  *3)); //G
+      polaAtasan1.add(new Node(pg[2].width/20+ 43   *3, 300+ 9.5  *3)); //E
+      polaAtasan1.add(new Node(pg[2].width/20+ 36   *3, 300+ 11   *3)); //F
+      polaAtasan1.add(new Node(pg[2].width/20+ 24   *3, 300+ 9.5  *3)); //B
+      polaAtasan1.add(new Node(pg[2].width/20+ 12   *3, 300+ 11   *3)); //F
+      polaAtasan1.add(new Node(pg[2].width/20+ 5    *3, 300+ 9.5  *3)); //E
+      polaAtasan1.add(new Node(pg[2].width/20+ 3.5  *3, 300+ 3.5  *3)); //G

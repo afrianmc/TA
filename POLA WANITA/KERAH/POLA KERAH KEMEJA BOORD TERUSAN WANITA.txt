@@ -1,0 +1,47 @@
+#POLA KERAH KEMEJA BOORD TERUSAN WANITA(S)
+      polaAtasan1.add(new Node(pg[2].width/20+ 5    *5, 300+ 4.5  *5)); //C
+      polaAtasan1.add(new Node(pg[2].width/20+ 22   *5, 300+ 5    *5)); //A
+      polaAtasan1.add(new Node(pg[2].width/20+ 39   *5, 300+ 4.5  *5)); //C
+      polaAtasan1.add(new Node(pg[2].width/20+ 44   *5, 300+ 3.5  *5)); //G
+      polaAtasan1.add(new Node(pg[2].width/20+ 39   *5, 300+ 9    *5)); //E
+      polaAtasan1.add(new Node(pg[2].width/20+ 40   *5, 300+ 10   *5)); //I
+      polaAtasan1.add(new Node(pg[2].width/20+ 41.5 *5, 300+ 10   *5)); //H
+      polaAtasan1.add(new Node(pg[2].width/20+ 35.5 *5, 300+ 10.5 *5)); //L
+      polaAtasan1.add(new Node(pg[2].width/20+ 22   *5, 300+ 10.5 *5)); //J
+      polaAtasan1.add(new Node(pg[2].width/20+ 7.5  *5, 300+ 10.5 *5)); //L
+      polaAtasan1.add(new Node(pg[2].width/20+ 2.5  *5, 300+ 10   *5)); //H
+      polaAtasan1.add(new Node(pg[2].width/20+ 4    *5, 300+ 10   *5)); //I
+      polaAtasan1.add(new Node(pg[2].width/20+ 5    *5, 300+ 9    *5)); //E
+      polaAtasan1.add(new Node(pg[2].width/20+ 0    *5, 300+ 3.5  *5)); //G
+
+#POLA KERAH KEMEJA BOORD TERUSAN WANITA(M)
+      polaAtasan1.add(new Node(pg[2].width/20+ 5    *5, 300+ 4.5  *5)); //C
+      polaAtasan1.add(new Node(pg[2].width/20+ 23   *5, 300+ 5    *5)); //A
+      polaAtasan1.add(new Node(pg[2].width/20+ 41   *5, 300+ 4.5  *5)); //C
+      polaAtasan1.add(new Node(pg[2].width/20+ 46   *5, 300+ 3.5  *5)); //G
+      polaAtasan1.add(new Node(pg[2].width/20+ 41   *5, 300+ 9    *5)); //E
+      polaAtasan1.add(new Node(pg[2].width/20+ 42   *5, 300+ 10   *5)); //I
+      polaAtasan1.add(new Node(pg[2].width/20+ 43.5 *5, 300+ 10   *5)); //H
+      polaAtasan1.add(new Node(pg[2].width/20+ 37.5 *5, 300+ 10.5 *5)); //L  
+      polaAtasan1.add(new Node(pg[2].width/20+ 23   *5, 300+ 10.5 *5)); //J
+      polaAtasan1.add(new Node(pg[2].width/20+ 8.5  *5, 300+ 10.5 *5)); //L
+      polaAtasan1.add(new Node(pg[2].width/20+ 2.5  *5, 300+ 10   *5)); //H
+      polaAtasan1.add(new Node(pg[2].width/20+ 4    *5, 300+ 10   *5)); //I
+      polaAtasan1.add(new Node(pg[2].width/20+ 5    *5, 300+ 9    *5)); //E
+      polaAtasan1.add(new Node(pg[2].width/20+ 0    *5, 300+ 3.5  *5)); //G
+
+#POLA KERAH KEMEJA BOORD TERUSAN WANITA(L)
+      polaAtasan1.add(new Node(pg[2].width/20+ 5    *5, 300+ 4.5  *5)); //C
+      polaAtasan1.add(new Node(pg[2].width/20+ 24   *5, 300+ 5    *5)); //A
+      polaAtasan1.add(new Node(pg[2].width/20+ 43   *5, 300+ 4.5  *5)); //C
+      polaAtasan1.add(new Node(pg[2].width/20+ 48   *5, 300+ 3.5  *5)); //G
+      polaAtasan1.add(new Node(pg[2].width/20+ 43   *5, 300+ 9    *5)); //E
+      polaAtasan1.add(new Node(pg[2].width/20+ 44   *5, 300+ 10   *5)); //I
+      polaAtasan1.add(new Node(pg[2].width/20+ 45.5 *5, 300+ 10   *5)); //H
+      polaAtasan1.add(new Node(pg[2].width/20+ 38.5 *5, 300+ 10.5 *5)); //L  
+      polaAtasan1.add(new Node(pg[2].width/20+ 24   *5, 300+ 10.5 *5)); //J
+      polaAtasan1.add(new Node(pg[2].width/20+ 9.5  *5, 300+ 10.5 *5)); //L
+      polaAtasan1.add(new Node(pg[2].width/20+ 2.5  *5, 300+ 10   *5)); //H
+      polaAtasan1.add(new Node(pg[2].width/20+ 4    *5, 300+ 10   *5)); //I
+      polaAtasan1.add(new Node(pg[2].width/20+ 5    *5, 300+ 9    *5)); //E
+      polaAtasan1.add(new Node(pg[2].width/20+ 0    *5, 300+ 3.5  *5)); //G

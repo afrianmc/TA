@@ -1,0 +1,83 @@
+//Pola Kerah Kemeja Size S
+polaLeher1.add(new Node(pg[2].width/20+ 5    *2.5, 250+ 4.5 *2.5)); //C
+      polaLeher1.add(new Node(pg[2].width/20+ 10.5 *2.5, 250+ 5   *2.5)); //H
+      polaLeher1.add(new Node(pg[2].width/20+ 22   *2.5, 250+ 5   *2.5)); //A
+      polaLeher1.add(new Node(pg[2].width/20+ 33.5 *2.5, 250+ 5   *2.5)); //H
+      polaLeher1.add(new Node(pg[2].width/20+ 39   *2.5, 250+ 4.5 *2.5)); //C
+      polaLeher1.add(new Node(pg[2].width/20+ 40.5 *2.5, 250+ 3   *2.5)); //F
+      polaLeher1.add(new Node(pg[2].width/20+ 39   *2.5, 250+ 9.5 *2.5)); //E
+      polaLeher1.add(new Node(pg[2].width/20+ 30.5 *2.5, 250+ 8.5 *2.5)); //G
+      polaLeher1.add(new Node(pg[2].width/20+ 22   *2.5, 250+ 8.5 *2.5)); //B
+      polaLeher1.add(new Node(pg[2].width/20+ 13.5 *2.5, 250+ 8.5 *2.5)); //G
+      polaLeher1.add(new Node(pg[2].width/20+ 5    *2.5, 250+ 9.5 *2.5)); //E
+      polaLeher1.add(new Node(pg[2].width/20+ 3.5  *2.5, 250+ 3   *2.5)); //F
+  
+//POLA KAKI KERAH
+      polaLeher2.add(new Node(pg[2].width/20+ 13.5 *2.5, 280+ 5   *2.5)); //E
+      polaLeher2.add(new Node(pg[2].width/20+ 22   *2.5, 280+ 5   *2.5)); //A
+      polaLeher2.add(new Node(pg[2].width/20+ 30.5 *2.5, 280+ 5   *2.5)); //E
+      polaLeher2.add(new Node(pg[2].width/20+ 40.5 *2.5, 280+ 2.5 *2.5)); //I
+      polaLeher2.add(new Node(pg[2].width/20+ 43   *2.5, 280+ 4   *2.5)); //G
+      polaLeher2.add(new Node(pg[2].width/20+ 41.5 *2.5, 280+ 5   *2.5)); //F
+      polaLeher2.add(new Node(pg[2].width/20+ 30.5 *2.5, 280+ 8   *2.5)); //H
+      polaLeher2.add(new Node(pg[2].width/20+ 22   *2.5, 280+ 8   *2.5)); //B
+      polaLeher2.add(new Node(pg[2].width/20+ 13.5 *2.5, 280+ 8   *2.5)); //H
+      polaLeher2.add(new Node(pg[2].width/20+ 5    *2.5, 280+ 5   *2.5)); //F
+      polaLeher2.add(new Node(pg[2].width/20+ 3.5  *2.5, 280+ 4   *2.5)); //G
+      polaLeher2.add(new Node(pg[2].width/20+ 5.5  *2.5, 280+ 2.5 *2.5)); //I
+
+//Pola Kerah Kemeja Size M
+      polaLeher1.add(new Node(pg[2].width/20+ 5    *2.5, 300+ 4.5 *2.5)); //C
+      polaLeher1.add(new Node(pg[2].width/20+ 11   *2.5, 300+ 5   *2.5)); //H
+      polaLeher1.add(new Node(pg[2].width/20+ 23   *2.5, 300+ 5   *2.5)); //A
+      polaLeher1.add(new Node(pg[2].width/20+ 35   *2.5, 300+ 5   *2.5)); //H
+      polaLeher1.add(new Node(pg[2].width/20+ 41   *2.5, 300+ 4.5 *2.5)); //C
+      polaLeher1.add(new Node(pg[2].width/20+ 42.5 *2.5, 300+ 3   *2.5)); //F
+      polaLeher1.add(new Node(pg[2].width/20+ 41   *2.5, 300+ 9.5 *2.5)); //E
+      polaLeher1.add(new Node(pg[2].width/20+ 32   *2.5, 300+ 8.5 *2.5)); //G
+      polaLeher1.add(new Node(pg[2].width/20+ 23   *2.5, 300+ 8.5 *2.5)); //B
+      polaLeher1.add(new Node(pg[2].width/20+ 14   *2.5, 300+ 8.5 *2.5)); //G
+      polaLeher1.add(new Node(pg[2].width/20+ 5    *2.5, 300+ 9.5 *2.5)); //E
+      polaLeher1.add(new Node(pg[2].width/20+ 3.5  *2.5, 300+ 3   *2.5)); //F
+
+//POLA KAKI KERAH
+      polaLeher2.add(new Node(pg[2].width/20+ 14   *2.5, 350+ 5   *2.5)); //E
+      polaLeher2.add(new Node(pg[2].width/20+ 23   *2.5, 350+ 5   *2.5)); //A
+      polaLeher2.add(new Node(pg[2].width/20+ 32   *2.5, 350+ 5   *2.5)); //E
+      polaLeher2.add(new Node(pg[2].width/20+ 42.5 *2.5, 350+ 2.5 *2.5)); //I
+      polaLeher2.add(new Node(pg[2].width/20+ 44   *2.5, 350+ 4   *2.5)); //G
+      polaLeher2.add(new Node(pg[2].width/20+ 43.5 *2.5, 350+ 5   *2.5)); //F
+      polaLeher2.add(new Node(pg[2].width/20+ 32   *2.5, 350+ 8   *2.5)); //H
+      polaLeher2.add(new Node(pg[2].width/20+ 23   *2.5, 350+ 8   *2.5)); //B
+      polaLeher2.add(new Node(pg[2].width/20+ 14   *2.5, 350+ 8   *2.5)); //H
+      polaLeher2.add(new Node(pg[2].width/20+ 5    *2.5, 350+ 5   *2.5)); //F
+      polaLeher2.add(new Node(pg[2].width/20+ 3.5  *2.5, 350+ 4   *2.5)); //G
+      polaLeher2.add(new Node(pg[2].width/20+ 5.5  *2.5, 350+ 2.5 *2.5)); //I
+
+//Pola Kerah Kemeja Size L
+      polaLeher1.add(new Node(pg[2].width/20+ 5    *2.5, 300+ 4.5 *2.5)); //C
+      polaLeher1.add(new Node(pg[2].width/20+ 11.5 *2.5, 300+ 5   *2.5)); //H
+      polaLeher1.add(new Node(pg[2].width/20+ 24   *2.5, 300+ 5   *2.5)); //A
+      polaLeher1.add(new Node(pg[2].width/20+ 36.5 *2.5, 300+ 5   *2.5)); //H
+      polaLeher1.add(new Node(pg[2].width/20+ 43   *2.5, 300+ 4.5 *2.5)); //C
+      polaLeher1.add(new Node(pg[2].width/20+ 44.5 *2.5, 300+ 3   *2.5)); //F
+      polaLeher1.add(new Node(pg[2].width/20+ 43   *2.5, 300+ 9.5 *2.5)); //E
+      polaLeher1.add(new Node(pg[2].width/20+ 33.5 *2.5, 300+ 8.5 *2.5)); //G
+      polaLeher1.add(new Node(pg[2].width/20+ 24   *2.5, 300+ 8.5 *2.5)); //B
+      polaLeher1.add(new Node(pg[2].width/20+ 15   *2.5, 300+ 8.5 *2.5)); //G
+      polaLeher1.add(new Node(pg[2].width/20+ 5    *2.5, 300+ 9.5 *2.5)); //E
+      polaLeher1.add(new Node(pg[2].width/20+ 3.5  *2.5, 300+ 3   *2.5)); //F
+
+//POLA KAKI KERAH
+      polaLeher2.add(new Node(pg[2].width/20+ 14.5 *2.5, 350+ 5   *2.5)); //E
+      polaLeher2.add(new Node(pg[2].width/20+ 24   *2.5, 350+ 5   *2.5)); //A
+      polaLeher2.add(new Node(pg[2].width/20+ 33.5 *2.5, 350+ 5   *2.5)); //E
+      polaLeher2.add(new Node(pg[2].width/20+ 43   *2.5, 350+ 2.5 *2.5)); //I
+      polaLeher2.add(new Node(pg[2].width/20+ 45.5 *2.5, 350+ 4   *2.5)); //G
+      polaLeher2.add(new Node(pg[2].width/20+ 44.5 *2.5, 350+ 5   *2.5)); //F
+      polaLeher2.add(new Node(pg[2].width/20+ 33.5 *2.5, 350+ 8   *2.5)); //H
+      polaLeher2.add(new Node(pg[2].width/20+ 24   *2.5, 350+ 8   *2.5)); //B
+      polaLeher2.add(new Node(pg[2].width/20+ 14.5 *2.5, 350+ 8   *2.5)); //H
+      polaLeher2.add(new Node(pg[2].width/20+ 5    *2.5, 350+ 5   *2.5)); //F
+      polaLeher2.add(new Node(pg[2].width/20+ 3.5  *2.5, 350+ 4   *2.5)); //G
+      polaLeher2.add(new Node(pg[2].width/20+ 5.5  *2.5, 350+ 2.5 *2.5)); //I

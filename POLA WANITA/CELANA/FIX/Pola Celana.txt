@@ -1,0 +1,493 @@
+//Pola Celana Pendek Size S
+//POLA DEPAN
+      //kiri
+      polaCelana1.add(new Node(pg[2].width/20+ 23.5 *2.5, 470+ 6    *2.5)); //K
+      polaCelana1.add(new Node(pg[2].width/20+ 23.5 *2.5, 470+ 19   *2.5)); //N
+      polaCelana1.add(new Node(pg[2].width/20+ 24.5 *2.5, 470+ 24   *2.5)); //
+      polaCelana1.add(new Node(pg[2].width/20+ 27.5 *2.5, 470+ 26   *2.5)); //F
+      polaCelana1.add(new Node(pg[2].width/20+ 26   *2.5, 470+ 60   *2.5)); //U
+      polaCelana1.add(new Node(pg[2].width/20+ 4    *2.5, 470+ 60   *2.5)); //T
+      polaCelana1.add(new Node(pg[2].width/20+ 2    *2.5, 470+ 26   *2.5)); //B
+      polaCelana1.add(new Node(pg[2].width/20+ 4    *2.5, 470+ 16   *2.5)); //O
+      polaCelana1.add(new Node(pg[2].width/20+ 6.5  *2.5, 470+ 5    *2.5)); //J
+      polaCelana1.add(new Node(pg[2].width/20+ 10   *2.5, 470+ 5    *2.5)); //1
+      polaCelana1.add(new Node(pg[2].width/20+ 11.5 *2.5, 470+ 16   *2.5)); //2
+      polaCelana1.add(new Node(pg[2].width/20+ 13   *2.5, 470+ 5    *2.5)); //3
+      polaCelana1.add(new Node(pg[2].width/20+ 15   *2.5, 470+ 5.5  *2.5)); //I
+      polaCelana1.add(new Node(pg[2].width/20+ 17   *2.5, 470+ 6    *2.5)); //4
+      polaCelana1.add(new Node(pg[2].width/20+ 18.5 *2.5, 470+ 16   *2.5)); //5
+      polaCelana1.add(new Node(pg[2].width/20+ 20   *2.5, 470+ 6    *2.5)); //6
+
+      //POLA 
+      polaCelana2.add(new Node(pg[2].width/20+ 23.5 *2.5, 470+ 6    *2.5)); //K
+      polaCelana2.add(new Node(pg[2].width/20+ 26.5 *2.5, 470+ 6    *2.5)); //
+      polaCelana2.add(new Node(pg[2].width/20+ 26.5 *2.5, 470+ 15   *2.5)); //
+      polaCelana2.add(new Node(pg[2].width/20+ 25.5 *2.5, 470+ 19   *2.5)); //
+      polaCelana2.add(new Node(pg[2].width/20+ 23.5 *2.5, 470+ 20   *2.5)); //N
+
+      //kanan
+      polaCelana3.add(new Node(pg[2].width/20- 23.5 *2.5 +200, 470+ 6    *2.5)); //K
+      polaCelana3.add(new Node(pg[2].width/20- 23.5 *2.5 +200, 470+ 19   *2.5)); //N
+      polaCelana3.add(new Node(pg[2].width/20- 24.5 *2.5 +200, 470+ 24   *2.5)); //
+      polaCelana3.add(new Node(pg[2].width/20- 27.5 *2.5 +200, 470+ 26   *2.5)); //F
+      polaCelana3.add(new Node(pg[2].width/20- 26   *2.5 +200, 470+ 60   *2.5)); //U
+      polaCelana3.add(new Node(pg[2].width/20- 4    *2.5 +200, 470+ 60   *2.5)); //T
+      polaCelana3.add(new Node(pg[2].width/20- 2    *2.5 +200, 470+ 26   *2.5)); //B
+      polaCelana3.add(new Node(pg[2].width/20- 4    *2.5 +200, 470+ 16   *2.5)); //O
+      polaCelana3.add(new Node(pg[2].width/20- 6.5  *2.5 +200, 470+ 5    *2.5)); //J
+      polaCelana3.add(new Node(pg[2].width/20- 10   *2.5 +200, 470+ 5    *2.5)); //1
+      polaCelana3.add(new Node(pg[2].width/20- 11.5 *2.5 +200, 470+ 16   *2.5)); //2
+      polaCelana3.add(new Node(pg[2].width/20- 13   *2.5 +200, 470+ 5    *2.5)); //3
+      polaCelana3.add(new Node(pg[2].width/20- 15   *2.5 +200, 470+ 5.5  *2.5)); //I
+      polaCelana3.add(new Node(pg[2].width/20- 17   *2.5 +200, 470+ 6    *2.5)); //4
+      polaCelana3.add(new Node(pg[2].width/20- 18.5 *2.5 +200, 470+ 16   *2.5)); //5
+      polaCelana3.add(new Node(pg[2].width/20- 20   *2.5 +200, 470+ 6    *2.5)); //6
+
+      //POLA 
+      polaCelana4.add(new Node(pg[2].width/20- 23.5 *2.5 +200, 470+ 6    *2.5)); //K
+      polaCelana4.add(new Node(pg[2].width/20- 26.5 *2.5 +200, 470+ 6    *2.5)); //
+      polaCelana4.add(new Node(pg[2].width/20- 26.5 *2.5 +200, 470+ 15   *2.5)); //
+      polaCelana4.add(new Node(pg[2].width/20- 25.5 *2.5 +200, 470+ 19   *2.5)); //
+      polaCelana4.add(new Node(pg[2].width/20- 23.5 *2.5 +200, 470+ 20   *2.5)); //N
+      
+      //POLA BELAKANG
+      //kiri
+      polaCelana5.add(new Node(pg[2].width/20+ 24.5 *2.5 +210, 470+ 3    *2.5)); //K
+      polaCelana5.add(new Node(pg[2].width/20+ 28.5 *2.5 +210, 470+ 23   *2.5)); //
+      polaCelana5.add(new Node(pg[2].width/20+ 32.5 *2.5 +210, 470+ 26   *2.5)); //
+      polaCelana5.add(new Node(pg[2].width/20+ 35.5 *2.5 +210, 470+ 26   *2.5)); //F
+      polaCelana5.add(new Node(pg[2].width/20+ 30   *2.5 +210, 470+ 60   *2.5)); //U
+      polaCelana5.add(new Node(pg[2].width/20+ 4    *2.5 +210, 470+ 60   *2.5)); //T
+      polaCelana5.add(new Node(pg[2].width/20+ 2    *2.5 +200, 470+ 26   *2.5)); //B
+      polaCelana5.add(new Node(pg[2].width/20+ 2    *2.5 +210, 470+ 5    *2.5)); //J
+      polaCelana5.add(new Node(pg[2].width/20+ 13.5 *2.5 +210, 470+ 5    *2.5)); //1
+      polaCelana5.add(new Node(pg[2].width/20+ 15   *2.5 +210, 470+ 16   *2.5)); //I
+      polaCelana5.add(new Node(pg[2].width/20+ 16.5 *2.5 +210, 470+ 5    *2.5)); //2
+
+      //kanan
+      polaCelana6.add(new Node(pg[2].width/20- 24.5 *2.5 +400, 470+ 3    *2.5)); //K
+      polaCelana6.add(new Node(pg[2].width/20- 28.5 *2.5 +400, 470+ 23   *2.5)); //
+      polaCelana6.add(new Node(pg[2].width/20- 32.5 *2.5 +400, 470+ 26   *2.5)); //
+      polaCelana6.add(new Node(pg[2].width/20- 35.5 *2.5 +400, 470+ 26   *2.5)); //F
+      polaCelana6.add(new Node(pg[2].width/20- 30   *2.5 +400, 470+ 60   *2.5)); //U
+      polaCelana6.add(new Node(pg[2].width/20- 4    *2.5 +400, 470+ 60   *2.5)); //T
+      polaCelana6.add(new Node(pg[2].width/20- 2    *2.5 +400, 470+ 26   *2.5)); //B
+      polaCelana6.add(new Node(pg[2].width/20- 2    *2.5 +400, 470+ 5    *2.5)); //J
+      polaCelana6.add(new Node(pg[2].width/20- 13.5 *2.5 +400, 470+ 5    *2.5)); //1
+      polaCelana6.add(new Node(pg[2].width/20- 15   *2.5 +400, 470+ 16   *2.5)); //I
+      polaCelana6.add(new Node(pg[2].width/20- 16.5 *2.5 +400, 470+ 5    *2.5)); //2
+
+//Pola Celana Panjang Size S
+      //POLA DEPAN
+      //kiri
+      polaCelana1.add(new Node(pg[2].width/20+ 23.5 *2.5, 470+ 6    *2.5)); //K
+      polaCelana1.add(new Node(pg[2].width/20+ 23.5 *2.5, 470+ 19   *2.5)); //N
+      polaCelana1.add(new Node(pg[2].width/20+ 24.5 *2.5, 470+ 24   *2.5)); //
+      polaCelana1.add(new Node(pg[2].width/20+ 27.5 *2.5, 470+ 26   *2.5)); //F
+      polaCelana1.add(new Node(pg[2].width/20+ 26   *2.5, 470+ 60   *2.5)); //U
+      polaCelana1.add(new Node(pg[2].width/20+ 24   *2.5, 470+ 95   *2.5)); //R
+      polaCelana1.add(new Node(pg[2].width/20+ 6    *2.5, 470+ 95   *2.5)); //Q
+      polaCelana1.add(new Node(pg[2].width/20+ 4    *2.5, 470+ 60   *2.5)); //T
+      polaCelana1.add(new Node(pg[2].width/20+ 2    *2.5, 470+ 26   *2.5)); //B
+      polaCelana1.add(new Node(pg[2].width/20+ 4    *2.5, 470+ 16   *2.5)); //O
+      polaCelana1.add(new Node(pg[2].width/20+ 6.5  *2.5, 470+ 5    *2.5)); //J
+      polaCelana1.add(new Node(pg[2].width/20+ 10   *2.5, 470+ 5    *2.5)); //1
+      polaCelana1.add(new Node(pg[2].width/20+ 11.5 *2.5, 470+ 16   *2.5)); //2
+      polaCelana1.add(new Node(pg[2].width/20+ 13   *2.5, 470+ 5    *2.5)); //3
+      polaCelana1.add(new Node(pg[2].width/20+ 15   *2.5, 470+ 5.5  *2.5)); //I
+      polaCelana1.add(new Node(pg[2].width/20+ 17   *2.5, 470+ 6    *2.5)); //4
+      polaCelana1.add(new Node(pg[2].width/20+ 18.5 *2.5, 470+ 16   *2.5)); //5
+      polaCelana1.add(new Node(pg[2].width/20+ 20   *2.5, 470+ 6    *2.5)); //6
+
+      //POLA 
+      polaCelana2.add(new Node(pg[2].width/20+ 23.5 *2.5, 470+ 6    *2.5)); //K
+      polaCelana2.add(new Node(pg[2].width/20+ 26.5 *2.5, 470+ 6    *2.5)); //
+      polaCelana2.add(new Node(pg[2].width/20+ 26.5 *2.5, 470+ 15   *2.5)); //
+      polaCelana2.add(new Node(pg[2].width/20+ 25.5 *2.5, 470+ 19   *2.5)); //
+      polaCelana2.add(new Node(pg[2].width/20+ 23.5 *2.5, 470+ 20   *2.5)); //N
+
+      //kanan
+      polaCelana3.add(new Node(pg[2].width/20- 23.5 *2.5 +200, 470+ 6    *2.5)); //K
+      polaCelana3.add(new Node(pg[2].width/20- 23.5 *2.5 +200, 470+ 19   *2.5)); //N
+      polaCelana3.add(new Node(pg[2].width/20- 24.5 *2.5 +200, 470+ 24   *2.5)); //
+      polaCelana3.add(new Node(pg[2].width/20- 27.5 *2.5 +200, 470+ 26   *2.5)); //F
+      polaCelana3.add(new Node(pg[2].width/20- 26   *2.5 +200, 470+ 60   *2.5)); //U
+      polaCelana3.add(new Node(pg[2].width/20- 24   *2.5 +200, 470+ 95   *2.5)); //R
+      polaCelana3.add(new Node(pg[2].width/20- 6    *2.5 +200, 470+ 95   *2.5)); //Q
+      polaCelana3.add(new Node(pg[2].width/20- 4    *2.5 +200, 470+ 60   *2.5)); //T
+      polaCelana3.add(new Node(pg[2].width/20- 2    *2.5 +200, 470+ 26   *2.5)); //B
+      polaCelana3.add(new Node(pg[2].width/20- 4    *2.5 +200, 470+ 16   *2.5)); //O
+      polaCelana3.add(new Node(pg[2].width/20- 6.5  *2.5 +200, 470+ 5    *2.5)); //J
+      polaCelana3.add(new Node(pg[2].width/20- 10   *2.5 +200, 470+ 5    *2.5)); //1
+      polaCelana3.add(new Node(pg[2].width/20- 11.5 *2.5 +200, 470+ 16   *2.5)); //2
+      polaCelana3.add(new Node(pg[2].width/20- 13   *2.5 +200, 470+ 5    *2.5)); //3
+      polaCelana3.add(new Node(pg[2].width/20- 15   *2.5 +200, 470+ 5.5  *2.5)); //I
+      polaCelana3.add(new Node(pg[2].width/20- 17   *2.5 +200, 470+ 6    *2.5)); //4
+      polaCelana3.add(new Node(pg[2].width/20- 18.5 *2.5 +200, 470+ 16   *2.5)); //5
+      polaCelana3.add(new Node(pg[2].width/20- 20   *2.5 +200, 470+ 6    *2.5)); //6
+
+      //POLA 
+      polaCelana4.add(new Node(pg[2].width/20- 23.5 *2.5 +200, 470+ 6    *2.5)); //K
+      polaCelana4.add(new Node(pg[2].width/20- 26.5 *2.5 +200, 470+ 6    *2.5)); //
+      polaCelana4.add(new Node(pg[2].width/20- 26.5 *2.5 +200, 470+ 15   *2.5)); //
+      polaCelana4.add(new Node(pg[2].width/20- 25.5 *2.5 +200, 470+ 19   *2.5)); //
+      polaCelana4.add(new Node(pg[2].width/20- 23.5 *2.5 +200, 470+ 20   *2.5)); //N
+      
+      //POLA BELAKANG
+      //kiri
+      polaCelana5.add(new Node(pg[2].width/20+ 24.5 *2.5 +210, 470+ 3    *2.5)); //K
+      polaCelana5.add(new Node(pg[2].width/20+ 28.5 *2.5 +210, 470+ 23   *2.5)); //
+      polaCelana5.add(new Node(pg[2].width/20+ 32.5 *2.5 +210, 470+ 26   *2.5)); //
+      polaCelana5.add(new Node(pg[2].width/20+ 35.5 *2.5 +210, 470+ 26   *2.5)); //F
+      polaCelana5.add(new Node(pg[2].width/20+ 30   *2.5 +210, 470+ 60   *2.5)); //U
+      polaCelana5.add(new Node(pg[2].width/20+ 24   *2.5 +210, 470+ 95   *2.5)); //R
+      polaCelana5.add(new Node(pg[2].width/20+ 6    *2.5 +210, 470+ 95   *2.5)); //Q
+      polaCelana5.add(new Node(pg[2].width/20+ 4    *2.5 +210, 470+ 65   *2.5)); //T
+      polaCelana5.add(new Node(pg[2].width/20+ 2    *2.5 +200, 470+ 26   *2.5)); //B
+      polaCelana5.add(new Node(pg[2].width/20+ 2    *2.5 +210, 470+ 5    *2.5)); //J
+      polaCelana5.add(new Node(pg[2].width/20+ 13.5 *2.5 +210, 470+ 5    *2.5)); //1
+      polaCelana5.add(new Node(pg[2].width/20+ 15   *2.5 +210, 470+ 16   *2.5)); //I
+      polaCelana5.add(new Node(pg[2].width/20+ 16.5 *2.5 +210, 470+ 5    *2.5)); //2
+
+      //kanan
+      polaCelana6.add(new Node(pg[2].width/20- 24.5 *2.5 +400, 470+ 3    *2.5)); //K
+      polaCelana6.add(new Node(pg[2].width/20- 28.5 *2.5 +400, 470+ 23   *2.5)); //
+      polaCelana6.add(new Node(pg[2].width/20- 32.5 *2.5 +400, 470+ 26   *2.5)); //
+      polaCelana6.add(new Node(pg[2].width/20- 35.5 *2.5 +400, 470+ 26   *2.5)); //F
+      polaCelana6.add(new Node(pg[2].width/20- 30   *2.5 +400, 470+ 60   *2.5)); //U
+      polaCelana6.add(new Node(pg[2].width/20- 24   *2.5 +400, 470+ 95   *2.5)); //R
+      polaCelana6.add(new Node(pg[2].width/20- 6    *2.5 +400, 470+ 95   *2.5)); //Q
+      polaCelana6.add(new Node(pg[2].width/20- 4    *2.5 +400, 470+ 65   *2.5)); //T
+      polaCelana6.add(new Node(pg[2].width/20- 2    *2.5 +400, 470+ 26   *2.5)); //B
+      polaCelana6.add(new Node(pg[2].width/20- 2    *2.5 +400, 470+ 5    *2.5)); //J
+      polaCelana6.add(new Node(pg[2].width/20- 13.5 *2.5 +400, 470+ 5    *2.5)); //1
+      polaCelana6.add(new Node(pg[2].width/20- 15   *2.5 +400, 470+ 16   *2.5)); //I
+      polaCelana6.add(new Node(pg[2].width/20- 16.5 *2.5 +400, 470+ 5    *2.5)); //2
+
+//Pola Celana Pendek Size M
+      //POLA DEPAN
+      //kiri
+      polaCelana1.add(new Node(pg[2].width/20+ 24   *2.5, 470+ 6    *2.5)); //K
+      polaCelana1.add(new Node(pg[2].width/20+ 24   *2.5, 470+ 25   *2.5)); //N
+      polaCelana1.add(new Node(pg[2].width/20+ 25.5 *2.5, 470+ 29   *2.5)); //
+      polaCelana1.add(new Node(pg[2].width/20+ 29   *2.5, 470+ 32   *2.5)); //F
+      polaCelana1.add(new Node(pg[2].width/20+ 27   *2.5, 470+ 70   *2.5)); //U
+      polaCelana1.add(new Node(pg[2].width/20+ 3    *2.5, 470+ 70   *2.5)); //T
+      polaCelana1.add(new Node(pg[2].width/20+ 1    *2.5, 470+ 32   *2.5)); //B
+      polaCelana1.add(new Node(pg[2].width/20+ 2    *2.5, 470+ 25   *2.5)); //O
+      polaCelana1.add(new Node(pg[2].width/20+ 6    *2.5, 470+ 5    *2.5)); //J
+      polaCelana1.add(new Node(pg[2].width/20+ 10   *2.5, 470+ 5    *2.5)); //1
+      polaCelana1.add(new Node(pg[2].width/20+ 11.5 *2.5, 470+ 16   *2.5)); //2
+      polaCelana1.add(new Node(pg[2].width/20+ 13   *2.5, 470+ 5    *2.5)); //3
+      polaCelana1.add(new Node(pg[2].width/20+ 15   *2.5, 470+ 5.5  *2.5)); //I
+      polaCelana1.add(new Node(pg[2].width/20+ 17   *2.5, 470+ 6    *2.5)); //4
+      polaCelana1.add(new Node(pg[2].width/20+ 18.5 *2.5, 470+ 16   *2.5)); //5
+      polaCelana1.add(new Node(pg[2].width/20+ 20   *2.5, 470+ 6    *2.5)); //6
+
+      //POLA 
+      polaCelana2.add(new Node(pg[2].width/20+ 24   *2.5, 470+ 6    *2.5)); //K
+      polaCelana2.add(new Node(pg[2].width/20+ 27.5 *2.5, 470+ 6    *2.5)); //
+      polaCelana2.add(new Node(pg[2].width/20+ 27.5 *2.5, 470+ 17   *2.5)); //
+      polaCelana2.add(new Node(pg[2].width/20+ 26.5 *2.5, 470+ 23   *2.5)); //
+
+      //kanan
+      polaCelana3.add(new Node(pg[2].width/20- 24   *2.5 +200, 470+ 6    *2.5)); //K
+      polaCelana3.add(new Node(pg[2].width/20- 24   *2.5 +200, 470+ 25   *2.5)); //N
+      polaCelana3.add(new Node(pg[2].width/20- 25.5 *2.5 +200, 470+ 29   *2.5)); //
+      polaCelana3.add(new Node(pg[2].width/20- 29   *2.5 +200, 470+ 32   *2.5)); //F
+      polaCelana3.add(new Node(pg[2].width/20- 27   *2.5 +200, 470+ 70   *2.5)); //U
+      polaCelana3.add(new Node(pg[2].width/20- 3    *2.5 +200, 470+ 70   *2.5)); //T
+      polaCelana3.add(new Node(pg[2].width/20- 1    *2.5 +200, 470+ 32   *2.5)); //B
+      polaCelana3.add(new Node(pg[2].width/20- 2    *2.5 +200, 470+ 25   *2.5)); //O
+      polaCelana3.add(new Node(pg[2].width/20- 6    *2.5 +200, 470+ 5    *2.5)); //J
+      polaCelana3.add(new Node(pg[2].width/20- 10   *2.5 +200, 470+ 5    *2.5)); //1
+      polaCelana3.add(new Node(pg[2].width/20- 11.5 *2.5 +200, 470+ 16   *2.5)); //2
+      polaCelana3.add(new Node(pg[2].width/20- 13   *2.5 +200, 470+ 5    *2.5)); //3
+      polaCelana3.add(new Node(pg[2].width/20- 15   *2.5 +200, 470+ 5.5  *2.5)); //I
+      polaCelana3.add(new Node(pg[2].width/20- 17   *2.5 +200, 470+ 6    *2.5)); //4
+      polaCelana3.add(new Node(pg[2].width/20- 18.5 *2.5 +200, 470+ 16   *2.5)); //5
+      polaCelana3.add(new Node(pg[2].width/20- 20   *2.5 +200, 470+ 6    *2.5)); //6
+
+      //POLA 
+      polaCelana4.add(new Node(pg[2].width/20- 24   *2.5 +200, 470+ 6    *2.5)); //K
+      polaCelana4.add(new Node(pg[2].width/20- 27.5 *2.5 +200, 470+ 6    *2.5)); //
+      polaCelana4.add(new Node(pg[2].width/20- 27.5 *2.5 +200, 470+ 17   *2.5)); //
+      polaCelana4.add(new Node(pg[2].width/20- 26.5 *2.5 +200, 470+ 23   *2.5)); //
+      polaCelana4.add(new Node(pg[2].width/20- 24   *2.5 +200, 470+ 25   *2.5)); //N
+      
+      //POLA BELAKANG
+      //kiri
+      polaCelana5.add(new Node(pg[2].width/20+ 25   *2.5 +210, 470+ 3    *2.5)); //K
+      polaCelana5.add(new Node(pg[2].width/20+ 28.5 *2.5 +210, 470+ 26   *2.5)); //
+      polaCelana5.add(new Node(pg[2].width/20+ 31.5 *2.5 +210, 470+ 31   *2.5)); //
+      polaCelana5.add(new Node(pg[2].width/20+ 37   *2.5 +210, 470+ 32   *2.5)); //F
+      polaCelana5.add(new Node(pg[2].width/20+ 31   *2.5 +210, 470+ 70   *2.5)); //U
+      polaCelana5.add(new Node(pg[2].width/20+ 3    *2.5 +210, 470+ 70   *2.5)); //T
+      polaCelana5.add(new Node(pg[2].width/20+ 1    *2.5 +210, 470+ 32   *2.5)); //B
+      polaCelana5.add(new Node(pg[2].width/20+ 1    *2.5 +210, 470+ 5    *2.5)); //J
+      polaCelana5.add(new Node(pg[2].width/20+ 13.5 *2.5 +210, 470+ 5    *2.5)); //1
+      polaCelana5.add(new Node(pg[2].width/20+ 15   *2.5 +210, 470+ 16   *2.5)); //I
+      polaCelana5.add(new Node(pg[2].width/20+ 16.5 *2.5 +210, 470+ 5    *2.5)); //2
+
+      //kanan
+      polaCelana6.add(new Node(pg[2].width/20- 25   *2.5 +430, 470+ 3    *2.5)); //K
+      polaCelana6.add(new Node(pg[2].width/20- 28.5 *2.5 +430, 470+ 26   *2.5)); //
+      polaCelana6.add(new Node(pg[2].width/20- 31.5 *2.5 +430, 470+ 31   *2.5)); //
+      polaCelana6.add(new Node(pg[2].width/20- 37   *2.5 +430, 470+ 32   *2.5)); //F
+      polaCelana6.add(new Node(pg[2].width/20- 31   *2.5 +430, 470+ 70   *2.5)); //U
+      polaCelana6.add(new Node(pg[2].width/20- 3    *2.5 +430, 470+ 70   *2.5)); //T
+      polaCelana6.add(new Node(pg[2].width/20- 1    *2.5 +430, 470+ 32   *2.5)); //B
+      polaCelana6.add(new Node(pg[2].width/20- 1    *2.5 +430, 470+ 5    *2.5)); //J
+      polaCelana6.add(new Node(pg[2].width/20- 13.5 *2.5 +430, 470+ 5    *2.5)); //1
+      polaCelana6.add(new Node(pg[2].width/20- 15   *2.5 +430, 470+ 16   *2.5)); //I
+      polaCelana6.add(new Node(pg[2].width/20- 16.5 *2.5 +430, 470+ 5    *2.5)); //2
+
+//Pola Celana Panjang Size M
+      //POLA DEPAN
+      //kiri
+      polaCelana1.add(new Node(pg[2].width/20+ 24   *2.5, 470+ 6    *2.5)); //K
+      polaCelana1.add(new Node(pg[2].width/20+ 24   *2.5, 470+ 25   *2.5)); //N
+      polaCelana1.add(new Node(pg[2].width/20+ 25.5 *2.5, 470+ 29   *2.5)); //
+      polaCelana1.add(new Node(pg[2].width/20+ 29   *2.5, 470+ 32   *2.5)); //F
+      polaCelana1.add(new Node(pg[2].width/20+ 27   *2.5, 470+ 70   *2.5)); //U
+      polaCelana1.add(new Node(pg[2].width/20+ 25   *2.5, 470+ 101  *2.5)); //R
+      polaCelana1.add(new Node(pg[2].width/20+ 5    *2.5, 470+ 101  *2.5)); //Q
+      polaCelana1.add(new Node(pg[2].width/20+ 3    *2.5, 470+ 70   *2.5)); //T
+      polaCelana1.add(new Node(pg[2].width/20+ 1    *2.5, 470+ 32   *2.5)); //B
+      polaCelana1.add(new Node(pg[2].width/20+ 2    *2.5, 470+ 25   *2.5)); //O
+      polaCelana1.add(new Node(pg[2].width/20+ 6    *2.5, 470+ 5    *2.5)); //J
+      polaCelana1.add(new Node(pg[2].width/20+ 10   *2.5, 470+ 5    *2.5)); //1
+      polaCelana1.add(new Node(pg[2].width/20+ 11.5 *2.5, 470+ 16   *2.5)); //2
+      polaCelana1.add(new Node(pg[2].width/20+ 13   *2.5, 470+ 5    *2.5)); //3
+      polaCelana1.add(new Node(pg[2].width/20+ 15   *2.5, 470+ 5.5  *2.5)); //I
+      polaCelana1.add(new Node(pg[2].width/20+ 17   *2.5, 470+ 6    *2.5)); //4
+      polaCelana1.add(new Node(pg[2].width/20+ 18.5 *2.5, 470+ 16   *2.5)); //5
+      polaCelana1.add(new Node(pg[2].width/20+ 20   *2.5, 470+ 6    *2.5)); //6
+
+      //POLA 
+      polaCelana2.add(new Node(pg[2].width/20+ 24   *2.5, 470+ 6    *2.5)); //K
+      polaCelana2.add(new Node(pg[2].width/20+ 27.5 *2.5, 470+ 6    *2.5)); //
+      polaCelana2.add(new Node(pg[2].width/20+ 27.5 *2.5, 470+ 17   *2.5)); //
+      polaCelana2.add(new Node(pg[2].width/20+ 26.5 *2.5, 470+ 23   *2.5)); //
+
+      //kanan
+      polaCelana3.add(new Node(pg[2].width/20- 24   *2.5 +200, 470+ 6    *2.5)); //K
+      polaCelana3.add(new Node(pg[2].width/20- 24   *2.5 +200, 470+ 25   *2.5)); //N
+      polaCelana3.add(new Node(pg[2].width/20- 25.5 *2.5 +200, 470+ 29   *2.5)); //
+      polaCelana3.add(new Node(pg[2].width/20- 29   *2.5 +200, 470+ 32   *2.5)); //F
+      polaCelana3.add(new Node(pg[2].width/20- 27   *2.5 +200, 470+ 70   *2.5)); //U
+      polaCelana3.add(new Node(pg[2].width/20- 25   *2.5 +200, 470+ 101  *2.5)); //R
+      polaCelana3.add(new Node(pg[2].width/20- 5    *2.5 +200, 470+ 101  *2.5)); //Q
+      polaCelana3.add(new Node(pg[2].width/20- 3    *2.5 +200, 470+ 70   *2.5)); //T
+      polaCelana3.add(new Node(pg[2].width/20- 1    *2.5 +200, 470+ 32   *2.5)); //B
+      polaCelana3.add(new Node(pg[2].width/20- 2    *2.5 +200, 470+ 25   *2.5)); //O
+      polaCelana3.add(new Node(pg[2].width/20- 6    *2.5 +200, 470+ 5    *2.5)); //J
+      polaCelana3.add(new Node(pg[2].width/20- 10   *2.5 +200, 470+ 5    *2.5)); //1
+      polaCelana3.add(new Node(pg[2].width/20- 11.5 *2.5 +200, 470+ 16   *2.5)); //2
+      polaCelana3.add(new Node(pg[2].width/20- 13   *2.5 +200, 470+ 5    *2.5)); //3
+      polaCelana3.add(new Node(pg[2].width/20- 15   *2.5 +200, 470+ 5.5  *2.5)); //I
+      polaCelana3.add(new Node(pg[2].width/20- 17   *2.5 +200, 470+ 6    *2.5)); //4
+      polaCelana3.add(new Node(pg[2].width/20- 18.5 *2.5 +200, 470+ 16   *2.5)); //5
+      polaCelana3.add(new Node(pg[2].width/20- 20   *2.5 +200, 470+ 6    *2.5)); //6
+
+      //POLA 
+      polaCelana4.add(new Node(pg[2].width/20- 24   *2.5 +200, 470+ 6    *2.5)); //K
+      polaCelana4.add(new Node(pg[2].width/20- 27.5 *2.5 +200, 470+ 6    *2.5)); //
+      polaCelana4.add(new Node(pg[2].width/20- 27.5 *2.5 +200, 470+ 17   *2.5)); //
+      polaCelana4.add(new Node(pg[2].width/20- 26.5 *2.5 +200, 470+ 23   *2.5)); //
+      polaCelana4.add(new Node(pg[2].width/20- 24   *2.5 +200, 470+ 25   *2.5)); //N
+      
+      //POLA BELAKANG
+      //kiri
+      polaCelana5.add(new Node(pg[2].width/20+ 25   *2.5 +210, 470+ 3    *2.5)); //K
+      polaCelana5.add(new Node(pg[2].width/20+ 28.5 *2.5 +210, 470+ 26   *2.5)); //
+      polaCelana5.add(new Node(pg[2].width/20+ 31.5 *2.5 +210, 470+ 31   *2.5)); //
+      polaCelana5.add(new Node(pg[2].width/20+ 37   *2.5 +210, 470+ 32   *2.5)); //F
+      polaCelana5.add(new Node(pg[2].width/20+ 31   *2.5 +210, 470+ 70   *2.5)); //U
+      polaCelana5.add(new Node(pg[2].width/20+ 29   *2.5 +210, 470+ 101  *2.5)); //R
+      polaCelana5.add(new Node(pg[2].width/20+ 5    *2.5 +210, 470+ 101  *2.5)); //Q
+      polaCelana5.add(new Node(pg[2].width/20+ 3    *2.5 +210, 470+ 70   *2.5)); //T
+      polaCelana5.add(new Node(pg[2].width/20+ 1    *2.5 +210, 470+ 32   *2.5)); //B
+      polaCelana5.add(new Node(pg[2].width/20+ 1    *2.5 +210, 470+ 5    *2.5)); //J
+      polaCelana5.add(new Node(pg[2].width/20+ 13.5 *2.5 +210, 470+ 5    *2.5)); //1
+      polaCelana5.add(new Node(pg[2].width/20+ 15   *2.5 +210, 470+ 16   *2.5)); //I
+      polaCelana5.add(new Node(pg[2].width/20+ 16.5 *2.5 +210, 470+ 5    *2.5)); //2
+
+      //kanan
+      polaCelana6.add(new Node(pg[2].width/20- 25   *2.5 +430, 470+ 3    *2.5)); //K
+      polaCelana6.add(new Node(pg[2].width/20- 28.5 *2.5 +430, 470+ 26   *2.5)); //
+      polaCelana6.add(new Node(pg[2].width/20- 31.5 *2.5 +430, 470+ 31   *2.5)); //
+      polaCelana6.add(new Node(pg[2].width/20- 37   *2.5 +430, 470+ 32   *2.5)); //F
+      polaCelana6.add(new Node(pg[2].width/20- 31   *2.5 +430, 470+ 70   *2.5)); //U
+      polaCelana6.add(new Node(pg[2].width/20- 29   *2.5 +430, 470+ 101  *2.5)); //R
+      polaCelana6.add(new Node(pg[2].width/20- 5    *2.5 +430, 470+ 101  *2.5)); //Q
+      polaCelana6.add(new Node(pg[2].width/20- 3    *2.5 +430, 470+ 70   *2.5)); //T
+      polaCelana6.add(new Node(pg[2].width/20- 1    *2.5 +430, 470+ 32   *2.5)); //B
+      polaCelana6.add(new Node(pg[2].width/20- 1    *2.5 +430, 470+ 5    *2.5)); //J
+      polaCelana6.add(new Node(pg[2].width/20- 13.5 *2.5 +430, 470+ 5    *2.5)); //1
+      polaCelana6.add(new Node(pg[2].width/20- 15   *2.5 +430, 470+ 16   *2.5)); //I
+      polaCelana6.add(new Node(pg[2].width/20- 16.5 *2.5 +430, 470+ 5    *2.5)); //2
+
+//Pola Celana Pendek Size L
+      //POLA DEPAN
+      //kiri
+      polaCelana1.add(new Node(pg[2].width/20+ 25   *2.5, 470+ 6    *2.5)); //K
+      polaCelana1.add(new Node(pg[2].width/20+ 25   *2.5, 470+ 31   *2.5)); //N
+      polaCelana1.add(new Node(pg[2].width/20+ 28.5 *2.5, 470+ 37   *2.5)); //
+      polaCelana1.add(new Node(pg[2].width/20+ 31   *2.5, 470+ 38   *2.5)); //F
+      polaCelana1.add(new Node(pg[2].width/20+ 28   *2.5, 470+ 75   *2.5)); //U
+      polaCelana1.add(new Node(pg[2].width/20+ 2    *2.5, 470+ 75   *2.5)); //T
+      polaCelana1.add(new Node(pg[2].width/20+ 0    *2.5, 470+ 32   *2.5)); //B
+      polaCelana1.add(new Node(pg[2].width/20+ 1    *2.5, 470+ 25   *2.5)); //O
+      polaCelana1.add(new Node(pg[2].width/20+ 6    *2.5, 470+ 5    *2.5)); //J
+      polaCelana1.add(new Node(pg[2].width/20+ 10   *2.5, 470+ 5    *2.5)); //1
+      polaCelana1.add(new Node(pg[2].width/20+ 11.5 *2.5, 470+ 16   *2.5)); //2
+      polaCelana1.add(new Node(pg[2].width/20+ 13   *2.5, 470+ 5    *2.5)); //3
+      polaCelana1.add(new Node(pg[2].width/20+ 15   *2.5, 470+ 5.5  *2.5)); //I
+      polaCelana1.add(new Node(pg[2].width/20+ 17   *2.5, 470+ 6    *2.5)); //4
+      polaCelana1.add(new Node(pg[2].width/20+ 18.5 *2.5, 470+ 16   *2.5)); //5
+      polaCelana1.add(new Node(pg[2].width/20+ 20   *2.5, 470+ 6    *2.5)); //6
+
+      //POLA 
+      polaCelana2.add(new Node(pg[2].width/20+ 25   *2.5, 470+ 6    *2.5)); //K
+      polaCelana2.add(new Node(pg[2].width/20+ 28.5 *2.5, 470+ 6    *2.5)); //
+      polaCelana2.add(new Node(pg[2].width/20+ 28.5 *2.5, 470+ 23   *2.5)); //
+      polaCelana2.add(new Node(pg[2].width/20+ 27.5 *2.5, 470+ 28   *2.5)); //
+
+      //kanan
+      polaCelana3.add(new Node(pg[2].width/20- 25   *2.5 +200, 470+ 6    *2.5)); //K
+      polaCelana3.add(new Node(pg[2].width/20- 25   *2.5 +200, 470+ 31   *2.5)); //N
+      polaCelana3.add(new Node(pg[2].width/20- 28.5 *2.5 +200, 470+ 37   *2.5)); //
+      polaCelana3.add(new Node(pg[2].width/20- 31   *2.5 +200, 470+ 38   *2.5)); //F
+      polaCelana3.add(new Node(pg[2].width/20- 28   *2.5 +200, 470+ 75   *2.5)); //U
+      polaCelana3.add(new Node(pg[2].width/20- 2    *2.5 +200, 470+ 75   *2.5)); //T
+      polaCelana3.add(new Node(pg[2].width/20- 0    *2.5 +200, 470+ 32   *2.5)); //B
+      polaCelana3.add(new Node(pg[2].width/20- 1    *2.5 +200, 470+ 25   *2.5)); //O
+      polaCelana3.add(new Node(pg[2].width/20- 6    *2.5 +200, 470+ 5    *2.5)); //J
+      polaCelana3.add(new Node(pg[2].width/20- 10   *2.5 +200, 470+ 5    *2.5)); //1
+      polaCelana3.add(new Node(pg[2].width/20- 11.5 *2.5 +200, 470+ 16   *2.5)); //2
+      polaCelana3.add(new Node(pg[2].width/20- 13   *2.5 +200, 470+ 5    *2.5)); //3
+      polaCelana3.add(new Node(pg[2].width/20- 15   *2.5 +200, 470+ 5.5  *2.5)); //I
+      polaCelana3.add(new Node(pg[2].width/20- 17   *2.5 +200, 470+ 6    *2.5)); //4
+      polaCelana3.add(new Node(pg[2].width/20- 18.5 *2.5 +200, 470+ 16   *2.5)); //5
+      polaCelana3.add(new Node(pg[2].width/20- 20   *2.5 +200, 470+ 6    *2.5)); //6
+
+      //POLA 
+      polaCelana4.add(new Node(pg[2].width/20- 25   *2.5 +200, 470+ 6    *2.5)); //K
+      polaCelana4.add(new Node(pg[2].width/20- 28.5 *2.5 +200, 470+ 6    *2.5)); //
+      polaCelana4.add(new Node(pg[2].width/20- 28.5 *2.5 +200, 470+ 23   *2.5)); //
+      polaCelana4.add(new Node(pg[2].width/20- 27.5 *2.5 +200, 470+ 28   *2.5)); //
+      polaCelana4.add(new Node(pg[2].width/20- 25   *2.5 +200, 470+ 31   *2.5)); //N
+      
+      //POLA BELAKANG
+      //kiri
+      polaCelana5.add(new Node(pg[2].width/20+ 25.5 *2.5 +210, 470+ 3    *2.5)); //K
+      polaCelana5.add(new Node(pg[2].width/20+ 28.5 *2.5 +210, 470+ 26   *2.5)); //
+      polaCelana5.add(new Node(pg[2].width/20+ 32.5 *2.5 +210, 470+ 34   *2.5)); //
+      polaCelana5.add(new Node(pg[2].width/20+ 39   *2.5 +210, 470+ 38   *2.5)); //F
+      polaCelana5.add(new Node(pg[2].width/20+ 32   *2.5 +210, 470+ 75   *2.5)); //U
+      polaCelana5.add(new Node(pg[2].width/20+ 2    *2.5 +210, 470+ 75   *2.5)); //T
+      polaCelana5.add(new Node(pg[2].width/20+ 0    *2.5 +210, 470+ 32   *2.5)); //B
+      polaCelana5.add(new Node(pg[2].width/20+ 0    *2.5 +210, 470+ 5    *2.5)); //J
+      polaCelana5.add(new Node(pg[2].width/20+ 13.5 *2.5 +210, 470+ 5    *2.5)); //1
+      polaCelana5.add(new Node(pg[2].width/20+ 15   *2.5 +210, 470+ 16   *2.5)); //I
+      polaCelana5.add(new Node(pg[2].width/20+ 16.5 *2.5 +210, 470+ 5    *2.5)); //2
+
+      //kanan
+      polaCelana6.add(new Node(pg[2].width/20- 25.5 *2.5 +430, 470+ 3    *2.5)); //K
+      polaCelana6.add(new Node(pg[2].width/20- 28.5 *2.5 +430, 470+ 26   *2.5)); //
+      polaCelana6.add(new Node(pg[2].width/20- 32.5 *2.5 +430, 470+ 34   *2.5)); //
+      polaCelana6.add(new Node(pg[2].width/20- 39   *2.5 +430, 470+ 38   *2.5)); //F
+      polaCelana6.add(new Node(pg[2].width/20- 32   *2.5 +430, 470+ 75   *2.5)); //U
+      polaCelana6.add(new Node(pg[2].width/20- 2    *2.5 +430, 470+ 75   *2.5)); //T
+      polaCelana6.add(new Node(pg[2].width/20- 0    *2.5 +430, 470+ 32   *2.5)); //B
+      polaCelana6.add(new Node(pg[2].width/20- 0    *2.5 +430, 470+ 5    *2.5)); //J
+      polaCelana6.add(new Node(pg[2].width/20- 13.5 *2.5 +430, 470+ 5    *2.5)); //1
+      polaCelana6.add(new Node(pg[2].width/20- 15   *2.5 +430, 470+ 16   *2.5)); //I
+      polaCelana6.add(new Node(pg[2].width/20- 16.5 *2.5 +430, 470+ 5    *2.5)); //2
+
+//Pola Celana Panjang Size L
+      //POLA DEPAN
+      //kiri
+      polaCelana1.add(new Node(pg[2].width/20+ 25   *2.5, 470+ 6    *2.5)); //K
+      polaCelana1.add(new Node(pg[2].width/20+ 25   *2.5, 470+ 31   *2.5)); //N
+      polaCelana1.add(new Node(pg[2].width/20+ 28.5 *2.5, 470+ 37   *2.5)); //
+      polaCelana1.add(new Node(pg[2].width/20+ 31   *2.5, 470+ 38   *2.5)); //F
+      polaCelana1.add(new Node(pg[2].width/20+ 28   *2.5, 470+ 75   *2.5)); //U
+      polaCelana1.add(new Node(pg[2].width/20+ 26   *2.5, 470+ 107  *2.5)); //R
+      polaCelana1.add(new Node(pg[2].width/20+ 4    *2.5, 470+ 107  *2.5)); //Q
+      polaCelana1.add(new Node(pg[2].width/20+ 2    *2.5, 470+ 75   *2.5)); //T
+      polaCelana1.add(new Node(pg[2].width/20+ 0    *2.5, 470+ 32   *2.5)); //B
+      polaCelana1.add(new Node(pg[2].width/20+ 1    *2.5, 470+ 25   *2.5)); //O
+      polaCelana1.add(new Node(pg[2].width/20+ 6    *2.5, 470+ 5    *2.5)); //J
+      polaCelana1.add(new Node(pg[2].width/20+ 10   *2.5, 470+ 5    *2.5)); //1
+      polaCelana1.add(new Node(pg[2].width/20+ 11.5 *2.5, 470+ 16   *2.5)); //2
+      polaCelana1.add(new Node(pg[2].width/20+ 13   *2.5, 470+ 5    *2.5)); //3
+      polaCelana1.add(new Node(pg[2].width/20+ 15   *2.5, 470+ 5.5  *2.5)); //I
+      polaCelana1.add(new Node(pg[2].width/20+ 17   *2.5, 470+ 6    *2.5)); //4
+      polaCelana1.add(new Node(pg[2].width/20+ 18.5 *2.5, 470+ 16   *2.5)); //5
+      polaCelana1.add(new Node(pg[2].width/20+ 20   *2.5, 470+ 6    *2.5)); //6
+
+      //POLA 
+      polaCelana2.add(new Node(pg[2].width/20+ 25   *2.5, 470+ 6    *2.5)); //K
+      polaCelana2.add(new Node(pg[2].width/20+ 28.5 *2.5, 470+ 6    *2.5)); //
+      polaCelana2.add(new Node(pg[2].width/20+ 28.5 *2.5, 470+ 23   *2.5)); //
+      polaCelana2.add(new Node(pg[2].width/20+ 27.5 *2.5, 470+ 28   *2.5)); //
+
+      //kanan
+      polaCelana3.add(new Node(pg[2].width/20- 25   *2.5 +200, 470+ 6    *2.5)); //K
+      polaCelana3.add(new Node(pg[2].width/20- 25   *2.5 +200, 470+ 31   *2.5)); //N
+      polaCelana3.add(new Node(pg[2].width/20- 28.5 *2.5 +200, 470+ 37   *2.5)); //
+      polaCelana3.add(new Node(pg[2].width/20- 31   *2.5 +200, 470+ 38   *2.5)); //F
+      polaCelana3.add(new Node(pg[2].width/20- 28   *2.5 +200, 470+ 75   *2.5)); //U
+      polaCelana3.add(new Node(pg[2].width/20- 26   *2.5 +200, 470+ 107  *2.5)); //R
+      polaCelana3.add(new Node(pg[2].width/20- 4    *2.5 +200, 470+ 107  *2.5)); //Q
+      polaCelana3.add(new Node(pg[2].width/20- 2    *2.5 +200, 470+ 75   *2.5)); //T
+      polaCelana3.add(new Node(pg[2].width/20- 0    *2.5 +200, 470+ 32   *2.5)); //B
+      polaCelana3.add(new Node(pg[2].width/20- 1    *2.5 +200, 470+ 25   *2.5)); //O
+      polaCelana3.add(new Node(pg[2].width/20- 6    *2.5 +200, 470+ 5    *2.5)); //J
+      polaCelana3.add(new Node(pg[2].width/20- 10   *2.5 +200, 470+ 5    *2.5)); //1
+      polaCelana3.add(new Node(pg[2].width/20- 11.5 *2.5 +200, 470+ 16   *2.5)); //2
+      polaCelana3.add(new Node(pg[2].width/20- 13   *2.5 +200, 470+ 5    *2.5)); //3
+      polaCelana3.add(new Node(pg[2].width/20- 15   *2.5 +200, 470+ 5.5  *2.5)); //I
+      polaCelana3.add(new Node(pg[2].width/20- 17   *2.5 +200, 470+ 6    *2.5)); //4
+      polaCelana3.add(new Node(pg[2].width/20- 18.5 *2.5 +200, 470+ 16   *2.5)); //5
+      polaCelana3.add(new Node(pg[2].width/20- 20   *2.5 +200, 470+ 6    *2.5)); //6
+
+      //POLA 
+      polaCelana4.add(new Node(pg[2].width/20- 25   *2.5 +200, 470+ 6    *2.5)); //K
+      polaCelana4.add(new Node(pg[2].width/20- 28.5 *2.5 +200, 470+ 6    *2.5)); //
+      polaCelana4.add(new Node(pg[2].width/20- 28.5 *2.5 +200, 470+ 23   *2.5)); //
+      polaCelana4.add(new Node(pg[2].width/20- 27.5 *2.5 +200, 470+ 28   *2.5)); //
+      polaCelana4.add(new Node(pg[2].width/20- 25   *2.5 +200, 470+ 31   *2.5)); //N
+      
+      //POLA BELAKANG
+      //kiri
+      polaCelana5.add(new Node(pg[2].width/20+ 25.5 *2.5 +210, 470+ 3    *2.5)); //K
+      polaCelana5.add(new Node(pg[2].width/20+ 28.5 *2.5 +210, 470+ 26   *2.5)); //
+      polaCelana5.add(new Node(pg[2].width/20+ 32.5 *2.5 +210, 470+ 34   *2.5)); //
+      polaCelana5.add(new Node(pg[2].width/20+ 39   *2.5 +210, 470+ 38   *2.5)); //F
+      polaCelana5.add(new Node(pg[2].width/20+ 32   *2.5 +210, 470+ 75   *2.5)); //U
+      polaCelana5.add(new Node(pg[2].width/20+ 30   *2.5 +210, 470+ 107  *2.5)); //R
+      polaCelana5.add(new Node(pg[2].width/20+ 4    *2.5 +210, 470+ 107  *2.5)); //Q
+      polaCelana5.add(new Node(pg[2].width/20+ 2    *2.5 +210, 470+ 75   *2.5)); //T
+      polaCelana5.add(new Node(pg[2].width/20+ 0    *2.5 +210, 470+ 32   *2.5)); //B
+      polaCelana5.add(new Node(pg[2].width/20+ 0    *2.5 +210, 470+ 5    *2.5)); //J
+      polaCelana5.add(new Node(pg[2].width/20+ 13.5 *2.5 +210, 470+ 5    *2.5)); //1
+      polaCelana5.add(new Node(pg[2].width/20+ 15   *2.5 +210, 470+ 16   *2.5)); //I
+      polaCelana5.add(new Node(pg[2].width/20+ 16.5 *2.5 +210, 470+ 5    *2.5)); //2
+
+      //kanan
+      polaCelana6.add(new Node(pg[2].width/20- 25.5 *2.5 +430, 470+ 3    *2.5)); //K
+      polaCelana6.add(new Node(pg[2].width/20- 28.5 *2.5 +430, 470+ 26   *2.5)); //
+      polaCelana6.add(new Node(pg[2].width/20- 32.5 *2.5 +430, 470+ 34   *2.5)); //
+      polaCelana6.add(new Node(pg[2].width/20- 39   *2.5 +430, 470+ 38   *2.5)); //F
+      polaCelana6.add(new Node(pg[2].width/20- 32   *2.5 +430, 470+ 75   *2.5)); //U
+      polaCelana6.add(new Node(pg[2].width/20- 30   *2.5 +430, 470+ 107  *2.5)); //R
+      polaCelana6.add(new Node(pg[2].width/20- 4    *2.5 +430, 470+ 107  *2.5)); //Q
+      polaCelana6.add(new Node(pg[2].width/20- 2    *2.5 +430, 470+ 75   *2.5)); //T
+      polaCelana6.add(new Node(pg[2].width/20- 0    *2.5 +430, 470+ 32   *2.5)); //B
+      polaCelana6.add(new Node(pg[2].width/20- 0    *2.5 +430, 470+ 5    *2.5)); //J
+      polaCelana6.add(new Node(pg[2].width/20- 13.5 *2.5 +430, 470+ 5    *2.5)); //1
+      polaCelana6.add(new Node(pg[2].width/20- 15   *2.5 +430, 470+ 16   *2.5)); //I
+      polaCelana6.add(new Node(pg[2].width/20- 16.5 *2.5 +430, 470+ 5    *2.5)); //2

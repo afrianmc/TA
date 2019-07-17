@@ -1,0 +1,197 @@
+//Pola Lengan Pendek Gelembung Atas Size S
+      polaLengan1.add(new Node(pg[2].width/20+ 15.5 *2.5, 320+ 0    *2.5)); //F
+      polaLengan1.add(new Node(pg[2].width/20+ 29   *2.5, 320+ 3    *2.5)); //O
+      polaLengan1.add(new Node(pg[2].width/20+ 32   *2.5, 320+ 25   *2.5)); //D
+      polaLengan1.add(new Node(pg[2].width/20+ 29   *2.5, 320+ 47   *2.5)); //N
+      polaLengan1.add(new Node(pg[2].width/20+ 15.5 *2.5, 320+ 50   *2.5)); //E
+      polaLengan1.add(new Node(pg[2].width/20+ 12   *2.5, 320+ 43   *2.5)); //3
+      polaLengan1.add(new Node(pg[2].width/20+ 6    *2.5, 320+ 36   *2.5)); //2
+      polaLengan1.add(new Node(pg[2].width/20+ 1    *2.5, 320+ 29   *2.5)); //1
+      polaLengan1.add(new Node(pg[2].width/20+ 0    *2.5, 320+ 25   *2.5)); //A
+      polaLengan1.add(new Node(pg[2].width/20+ 1    *2.5, 320+ 21   *2.5)); //1
+      polaLengan1.add(new Node(pg[2].width/20+ 6    *2.5, 320+ 14   *2.5)); //2
+      polaLengan1.add(new Node(pg[2].width/20+ 12   *2.5, 320+ 7    *2.5)); //3
+      
+      polaLengan2.add(new Node(pg[2].width/25+ 15.5 *2.5 +200, 320+ 0    *2.5)); //F
+      polaLengan2.add(new Node(pg[2].width/25+ 29   *2.5 +200, 320+ 3    *2.5)); //O
+      polaLengan2.add(new Node(pg[2].width/25+ 32   *2.5 +200, 320+ 25   *2.5)); //D
+      polaLengan2.add(new Node(pg[2].width/25+ 29   *2.5 +200, 320+ 47   *2.5)); //N
+      polaLengan2.add(new Node(pg[2].width/25+ 15.5 *2.5 +200, 320+ 50   *2.5)); //E
+      polaLengan2.add(new Node(pg[2].width/25+ 12   *2.5 +200, 320+ 43   *2.5)); //3
+      polaLengan2.add(new Node(pg[2].width/25+ 6    *2.5 +200, 320+ 36   *2.5)); //2
+      polaLengan2.add(new Node(pg[2].width/25+ 1    *2.5 +200, 320+ 29   *2.5)); //1
+      polaLengan2.add(new Node(pg[2].width/25+ 0    *2.5 +200, 320+ 25   *2.5)); //A
+      polaLengan2.add(new Node(pg[2].width/25+ 1    *2.5 +200, 320+ 21   *2.5)); //1
+      polaLengan2.add(new Node(pg[2].width/25+ 6    *2.5 +200, 320+ 14   *2.5)); //2
+      polaLengan2.add(new Node(pg[2].width/20+ 12   *2.5 +200, 320+ 7    *2.5)); //3
+
+//POLA BAN
+      polaLengan3.add(new Node(pg[2].width/20+ 0    *2.5 +380, 320+ 0    *2.5)); //A
+      polaLengan3.add(new Node(pg[2].width/20+ 5    *2.5 +380, 320+ 0    *2.5)); //B
+      polaLengan3.add(new Node(pg[2].width/20+ 5    *2.5 +380, 320+ 32   *2.5)); //C
+      polaLengan3.add(new Node(pg[2].width/20+ 0    *2.5 +380, 320+ 32   *2.5)); //D
+
+//Pola Lengan Panjang Gelembung Atas Size S
+      polaLengan1.add(new Node(pg[2].width/20+ 15.5 *2.5, 320+ 0    *2.5)); //F
+      polaLengan1.add(new Node(pg[2].width/20+ 55   *2.5, 320+ 10.5 *2.5)); //O
+      polaLengan1.add(new Node(pg[2].width/20+ 58   *2.5, 320+ 25   *2.5)); //D
+      polaLengan1.add(new Node(pg[2].width/20+ 55   *2.5, 320+ 39.5 *2.5)); //N
+      polaLengan1.add(new Node(pg[2].width/20+ 15.5 *2.5, 320+ 50   *2.5)); //E
+      polaLengan1.add(new Node(pg[2].width/20+ 12   *2.5, 320+ 43   *2.5)); //3
+      polaLengan1.add(new Node(pg[2].width/20+ 6    *2.5, 320+ 36   *2.5)); //2
+      polaLengan1.add(new Node(pg[2].width/20+ 1    *2.5, 320+ 29   *2.5)); //1
+      polaLengan1.add(new Node(pg[2].width/20+ 0    *2.5, 320+ 25   *2.5)); //A
+      polaLengan1.add(new Node(pg[2].width/20+ 1    *2.5, 320+ 21   *2.5)); //1
+      polaLengan1.add(new Node(pg[2].width/20+ 6    *2.5, 320+ 14   *2.5)); //2
+      polaLengan1.add(new Node(pg[2].width/20+ 12   *2.5, 320+ 7    *2.5)); //3
+      
+      polaLengan2.add(new Node(pg[2].width/20+ 15.5 *2.5 +200, 320+ 0    *2.5)); //F
+      polaLengan2.add(new Node(pg[2].width/20+ 55   *2.5 +200, 320+ 10.5 *2.5)); //O
+      polaLengan2.add(new Node(pg[2].width/20+ 58   *2.5 +200, 320+ 25   *2.5)); //D
+      polaLengan2.add(new Node(pg[2].width/20+ 55   *2.5 +200, 320+ 39.5 *2.5)); //N
+      polaLengan2.add(new Node(pg[2].width/20+ 15.5 *2.5 +200, 320+ 50   *2.5)); //E
+      polaLengan2.add(new Node(pg[2].width/20+ 12   *2.5 +200, 320+ 43   *2.5)); //3
+      polaLengan2.add(new Node(pg[2].width/20+ 6    *2.5 +200, 320+ 36   *2.5)); //2
+      polaLengan2.add(new Node(pg[2].width/20+ 1    *2.5 +200, 320+ 29   *2.5)); //1
+      polaLengan2.add(new Node(pg[2].width/20+ 0    *2.5 +200, 320+ 25   *2.5)); //A
+      polaLengan2.add(new Node(pg[2].width/20+ 1    *2.5 +200, 320+ 21   *2.5)); //1
+      polaLengan2.add(new Node(pg[2].width/20+ 6    *2.5 +200, 320+ 14   *2.5)); //2
+      polaLengan2.add(new Node(pg[2].width/20+ 12   *2.5 +200, 320+ 7    *2.5)); //3
+
+//POLA BAN
+      polaLengan3.add(new Node(pg[2].width/20+ 0    *2.5 +380, 320+ 0    *2.5)); //A
+      polaLengan3.add(new Node(pg[2].width/20+ 5    *2.5 +380, 320+ 0    *2.5)); //B
+      polaLengan3.add(new Node(pg[2].width/20+ 5    *2.5 +380, 320+ 17   *2.5)); //C
+      polaLengan3.add(new Node(pg[2].width/20+ 0    *2.5 +380, 320+ 17   *2.5)); //D
+
+//Pola Lengan Pendek Gelembung Atas Size M
+      polaLengan1.add(new Node(pg[2].width/20+ 15.5 *2.5, 320+ 0    *2.5)); //F
+      polaLengan1.add(new Node(pg[2].width/20+ 31   *2.5, 320+ 3    *2.5)); //O
+      polaLengan1.add(new Node(pg[2].width/20+ 34   *2.5, 320+ 26   *2.5)); //D
+      polaLengan1.add(new Node(pg[2].width/20+ 31   *2.5, 320+ 49   *2.5)); //N
+      polaLengan1.add(new Node(pg[2].width/20+ 15.5 *2.5, 320+ 52   *2.5)); //E
+      polaLengan1.add(new Node(pg[2].width/20+ 12   *2.5, 320+ 48   *2.5)); //3
+      polaLengan1.add(new Node(pg[2].width/20+ 6    *2.5, 320+ 40   *2.5)); //2
+      polaLengan1.add(new Node(pg[2].width/20+ 1    *2.5, 320+ 32   *2.5)); //1
+      polaLengan1.add(new Node(pg[2].width/20+ 0    *2.5, 320+ 26   *2.5)); //A
+      polaLengan1.add(new Node(pg[2].width/20+ 1    *2.5, 320+ 24   *2.5)); //1
+      polaLengan1.add(new Node(pg[2].width/20+ 6    *2.5, 320+ 16   *2.5)); //2
+      polaLengan1.add(new Node(pg[2].width/20+ 12   *2.5, 320+ 8    *2.5)); //3
+      
+      polaLengan2.add(new Node(pg[2].width/20+ 15.5 *2.5 +200, 320+ 0    *2.5)); //F
+      polaLengan2.add(new Node(pg[2].width/20+ 31   *2.5 +200, 320+ 3    *2.5)); //O
+      polaLengan2.add(new Node(pg[2].width/20+ 34   *2.5 +200, 320+ 26   *2.5)); //D
+      polaLengan2.add(new Node(pg[2].width/20+ 31   *2.5 +200, 320+ 49   *2.5)); //N
+      polaLengan2.add(new Node(pg[2].width/20+ 15.5 *2.5 +200, 320+ 52   *2.5)); //E
+      polaLengan2.add(new Node(pg[2].width/20+ 12   *2.5 +200, 320+ 48   *2.5)); //3
+      polaLengan2.add(new Node(pg[2].width/20+ 6    *2.5 +200, 320+ 40   *2.5)); //2
+      polaLengan2.add(new Node(pg[2].width/20+ 1    *2.5 +200, 320+ 32   *2.5)); //1
+      polaLengan2.add(new Node(pg[2].width/20+ 0    *2.5 +200, 320+ 26   *2.5)); //A
+      polaLengan2.add(new Node(pg[2].width/20+ 1    *2.5 +200, 320+ 24   *2.5)); //1
+      polaLengan2.add(new Node(pg[2].width/20+ 6    *2.5 +200, 320+ 16   *2.5)); //2
+      polaLengan2.add(new Node(pg[2].width/20+ 12   *2.5 +200, 320+ 8    *2.5)); //3
+
+//POLA BAN
+      polaLengan3.add(new Node(pg[2].width/20+ 0    *2.5 +380, 320+ 0    *2.5)); //A
+      polaLengan3.add(new Node(pg[2].width/20+ 5    *2.5 +380, 320+ 0    *2.5)); //B
+      polaLengan3.add(new Node(pg[2].width/20+ 5    *2.5 +380, 320+ 34   *2.5)); //C
+      polaLengan3.add(new Node(pg[2].width/20+ 0    *2.5 +380, 320+ 34   *2.5)); //D
+
+//Pola Lengan Panjang Gelembung Atas Size M
+      polaLengan1.add(new Node(pg[2].width/20+ 15.5 *2.5, 320+ 0    *2.5)); //F
+      polaLengan1.add(new Node(pg[2].width/20+ 58   *2.5, 320+ 10.5 *2.5)); //O
+      polaLengan1.add(new Node(pg[2].width/20+ 61   *2.5, 320+ 26   *2.5)); //D
+      polaLengan1.add(new Node(pg[2].width/20+ 58   *2.5, 320+ 41.5 *2.5)); //N
+      polaLengan1.add(new Node(pg[2].width/20+ 15.5 *2.5, 320+ 52   *2.5)); //E
+      polaLengan1.add(new Node(pg[2].width/20+ 12   *2.5, 320+ 48   *2.5)); //3
+      polaLengan1.add(new Node(pg[2].width/20+ 6    *2.5, 320+ 40   *2.5)); //2
+      polaLengan1.add(new Node(pg[2].width/20+ 1    *2.5, 320+ 32   *2.5)); //1
+      polaLengan1.add(new Node(pg[2].width/20+ 0    *2.5, 320+ 26   *2.5)); //A
+      polaLengan1.add(new Node(pg[2].width/20+ 1    *2.5, 320+ 24   *2.5)); //1
+      polaLengan1.add(new Node(pg[2].width/20+ 6    *2.5, 320+ 16   *2.5)); //2
+      polaLengan1.add(new Node(pg[2].width/20+ 12   *2.5, 320+ 8    *2.5)); //3
+      
+      polaLengan2.add(new Node(pg[2].width/20+ 15.5 *2.5 +200, 320+ 0    *2.5)); //F
+      polaLengan2.add(new Node(pg[2].width/20+ 58   *2.5 +200, 320+ 10.5 *2.5)); //O
+      polaLengan2.add(new Node(pg[2].width/20+ 61   *2.5 +200, 320+ 26   *2.5)); //D
+      polaLengan2.add(new Node(pg[2].width/20+ 58   *2.5 +200, 320+ 41.5 *2.5)); //N
+      polaLengan2.add(new Node(pg[2].width/20+ 15.5 *2.5 +200, 320+ 52   *2.5)); //E
+      polaLengan2.add(new Node(pg[2].width/20+ 12   *2.5 +200, 320+ 48   *2.5)); //3
+      polaLengan2.add(new Node(pg[2].width/20+ 6    *2.5 +200, 320+ 40   *2.5)); //2
+      polaLengan2.add(new Node(pg[2].width/20+ 1    *2.5 +200, 320+ 32   *2.5)); //1
+      polaLengan2.add(new Node(pg[2].width/20+ 0    *2.5 +200, 320+ 26   *2.5)); //A
+      polaLengan2.add(new Node(pg[2].width/20+ 1    *2.5 +200, 320+ 24   *2.5)); //1
+      polaLengan2.add(new Node(pg[2].width/20+ 6    *2.5 +200, 320+ 16   *2.5)); //2
+      polaLengan2.add(new Node(pg[2].width/20+ 12   *2.5 +200, 320+ 8    *2.5)); //3
+
+//POLA BAN
+      polaLengan3.add(new Node(pg[2].width/20+ 0    *2.5 +380, 320+ 0    *2.5)); //A
+      polaLengan3.add(new Node(pg[2].width/20+ 5    *2.5 +380, 320+ 0    *2.5)); //B
+      polaLengan3.add(new Node(pg[2].width/20+ 5    *2.5 +380, 320+ 19   *2.5)); //C
+      polaLengan3.add(new Node(pg[2].width/20+ 0    *2.5 +380, 320+ 19   *2.5)); //D
+
+//Pola Lengan Pendek Gelembung Atas Size L
+polaLengan1.add(new Node(pg[2].width/20+ 15.5 *2.5, 320+ 0    *2.5)); //F
+      polaLengan1.add(new Node(pg[2].width/20+ 33   *2.5, 320+ 3.5  *2.5)); //O
+      polaLengan1.add(new Node(pg[2].width/20+ 36   *2.5, 320+ 27   *2.5)); //D
+      polaLengan1.add(new Node(pg[2].width/20+ 33   *2.5, 320+ 50.5 *2.5)); //N
+      polaLengan1.add(new Node(pg[2].width/20+ 15.5 *2.5, 320+ 54   *2.5)); //E
+      polaLengan1.add(new Node(pg[2].width/20+ 12   *2.5, 320+ 48   *2.5)); //3
+      polaLengan1.add(new Node(pg[2].width/20+ 5    *2.5, 320+ 40   *2.5)); //2
+      polaLengan1.add(new Node(pg[2].width/20+ 1    *2.5, 320+ 32   *2.5)); //1
+      polaLengan1.add(new Node(pg[2].width/20+ 0    *2.5, 320+ 27   *2.5)); //A
+      polaLengan1.add(new Node(pg[2].width/20+ 1    *2.5, 320+ 24   *2.5)); //1
+      polaLengan1.add(new Node(pg[2].width/20+ 5    *2.5, 320+ 16   *2.5)); //2
+      polaLengan1.add(new Node(pg[2].width/20+ 12   *2.5, 320+ 8    *2.5)); //3
+      
+      polaLengan2.add(new Node(pg[2].width/20+ 15.5 *2.5 +200, 320+ 0    *2.5)); //F
+      polaLengan2.add(new Node(pg[2].width/20+ 33   *2.5 +200, 320+ 3.5  *2.5)); //O
+      polaLengan2.add(new Node(pg[2].width/20+ 36   *2.5 +200, 320+ 27   *2.5)); //D
+      polaLengan2.add(new Node(pg[2].width/20+ 33   *2.5 +200, 320+ 50.5 *2.5)); //N
+      polaLengan2.add(new Node(pg[2].width/20+ 15.5 *2.5 +200, 320+ 54   *2.5)); //E
+      polaLengan2.add(new Node(pg[2].width/20+ 12   *2.5 +200, 320+ 48   *2.5)); //3
+      polaLengan2.add(new Node(pg[2].width/20+ 5    *2.5 +200, 320+ 40   *2.5)); //2
+      polaLengan2.add(new Node(pg[2].width/20+ 1    *2.5 +200, 320+ 32   *2.5)); //1
+      polaLengan2.add(new Node(pg[2].width/20+ 0    *2.5 +200, 320+ 27   *2.5)); //A
+      polaLengan2.add(new Node(pg[2].width/20+ 1    *2.5 +200, 320+ 24   *2.5)); //1
+      polaLengan2.add(new Node(pg[2].width/20+ 5    *2.5 +200, 320+ 16   *2.5)); //2
+      polaLengan2.add(new Node(pg[2].width/20+ 12   *2.5 +200, 320+ 8    *2.5)); //3
+
+//POLA BAN
+      polaLengan3.add(new Node(pg[2].width/20+ 0    *2.5 +380, 320+ 0    *2.5)); //A
+      polaLengan3.add(new Node(pg[2].width/20+ 5    *2.5 +380, 320+ 0    *2.5)); //B
+      polaLengan3.add(new Node(pg[2].width/20+ 5    *2.5 +380, 320+ 35   *2.5)); //C
+      polaLengan3.add(new Node(pg[2].width/20+ 0    *2.5 +380, 320+ 35   *2.5)); //D
+
+//Pola Lengan Panjang Gelembung Atas Size L
+      polaLengan1.add(new Node(pg[2].width/20+ 15.5 *2.5, 320+ 0    *2.5)); //F
+      polaLengan1.add(new Node(pg[2].width/20+ 61   *2.5, 320+ 10.5 *2.5)); //O
+      polaLengan1.add(new Node(pg[2].width/20+ 64   *2.5, 320+ 27   *2.5)); //D
+      polaLengan1.add(new Node(pg[2].width/20+ 61   *2.5, 320+ 43.5 *2.5)); //N
+      polaLengan1.add(new Node(pg[2].width/20+ 15.5 *2.5, 320+ 54   *2.5)); //E
+      polaLengan1.add(new Node(pg[2].width/20+ 12   *2.5, 320+ 48   *2.5)); //3
+      polaLengan1.add(new Node(pg[2].width/20+ 5    *2.5, 320+ 40   *2.5)); //2
+      polaLengan1.add(new Node(pg[2].width/20+ 1    *2.5, 320+ 32   *2.5)); //1
+      polaLengan1.add(new Node(pg[2].width/20+ 0    *2.5, 320+ 27   *2.5)); //A
+      polaLengan1.add(new Node(pg[2].width/20+ 1    *2.5, 320+ 24   *2.5)); //1
+      polaLengan1.add(new Node(pg[2].width/20+ 5    *2.5, 320+ 16   *2.5)); //2
+      polaLengan1.add(new Node(pg[2].width/20+ 12   *2.5, 320+ 8    *2.5)); //3
+      
+      polaLengan2.add(new Node(pg[2].width/20+ 15.5 *2.5 +200, 320+ 0    *2.5)); //F
+      polaLengan2.add(new Node(pg[2].width/20+ 61   *2.5 +200, 320+ 10.5 *2.5)); //O
+      polaLengan2.add(new Node(pg[2].width/20+ 64   *2.5 +200, 320+ 27   *2.5)); //D
+      polaLengan2.add(new Node(pg[2].width/20+ 61   *2.5 +200, 320+ 43.5 *2.5)); //N
+      polaLengan2.add(new Node(pg[2].width/20+ 15.5 *2.5 +200, 320+ 54   *2.5)); //E
+      polaLengan2.add(new Node(pg[2].width/20+ 12   *2.5 +200, 320+ 48   *2.5)); //3
+      polaLengan2.add(new Node(pg[2].width/20+ 5    *2.5 +200, 320+ 40   *2.5)); //2
+      polaLengan2.add(new Node(pg[2].width/20+ 1    *2.5 +200, 320+ 32   *2.5)); //1
+      polaLengan2.add(new Node(pg[2].width/20+ 0    *2.5 +200, 320+ 27   *2.5)); //A
+      polaLengan2.add(new Node(pg[2].width/20+ 1    *2.5 +200, 320+ 24   *2.5)); //1
+      polaLengan2.add(new Node(pg[2].width/20+ 5    *2.5 +200, 320+ 16   *2.5)); //2
+      polaLengan2.add(new Node(pg[2].width/20+ 12   *2.5 +200, 320+ 8    *2.5)); //3
+
+//POLA BAN
+      polaLengan3.add(new Node(pg[2].width/20+ 0    *2.5 +380, 320+ 0    *2.5)); //A
+      polaLengan3.add(new Node(pg[2].width/20+ 5    *2.5 +380, 320+ 0    *2.5)); //B
+      polaLengan3.add(new Node(pg[2].width/20+ 5    *2.5 +380, 320+ 21   *2.5)); //C
+      polaLengan3.add(new Node(pg[2].width/20+ 0    *2.5 +380, 320+ 21   *2.5)); //D

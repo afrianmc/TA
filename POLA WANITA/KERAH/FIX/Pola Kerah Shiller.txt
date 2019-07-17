@@ -1,0 +1,35 @@
+//Pola Kerah Shiller Size S
+      polaLeher1.add(new Node(pg[2].width/20+ 5    *2.5, 250+ 4.5  *2.5)); //C
+      polaLeher1.add(new Node(pg[2].width/20+ 22   *2.5, 250+ 5    *2.5)); //A
+      polaLeher1.add(new Node(pg[2].width/20+ 39   *2.5, 250+ 4.5  *2.5)); //C
+      polaLeher1.add(new Node(pg[2].width/20+ 40.5 *2.5, 250+ 3.5  *2.5)); //G
+      polaLeher1.add(new Node(pg[2].width/20+ 39   *2.5, 250+ 9.5  *2.5)); //E
+      polaLeher1.add(new Node(pg[2].width/20+ 34   *2.5, 250+ 11   *2.5)); //F
+      polaLeher1.add(new Node(pg[2].width/20+ 22   *2.5, 250+ 9.5  *2.5)); //B
+      polaLeher1.add(new Node(pg[2].width/20+ 10   *2.5, 250+ 11   *2.5)); //F
+      polaLeher1.add(new Node(pg[2].width/20+ 5    *2.5, 250+ 9.5  *2.5)); //E
+      polaLeher1.add(new Node(pg[2].width/20+ 3.5  *2.5, 250+ 3.5  *2.5)); //G
+
+//Pola Kerah Shiller Size M
+      polaLeher1.add(new Node(pg[2].width/20+ 5    *2.5, 250+ 4.5  *2.5)); //C
+      polaLeher1.add(new Node(pg[2].width/20+ 23   *2.5, 250+ 5    *2.5)); //A
+      polaLeher1.add(new Node(pg[2].width/20+ 41   *2.5, 250+ 4.5  *2.5)); //C
+      polaLeher1.add(new Node(pg[2].width/20+ 42.5 *2.5, 250+ 3.5  *2.5)); //G
+      polaLeher1.add(new Node(pg[2].width/20+ 41   *2.5, 250+ 9.5  *2.5)); //E
+      polaLeher1.add(new Node(pg[2].width/20+ 35   *2.5, 250+ 11   *2.5)); //F
+      polaLeher1.add(new Node(pg[2].width/20+ 23   *2.5, 250+ 9.5  *2.5)); //B
+      polaLeher1.add(new Node(pg[2].width/20+ 11   *2.5, 250+ 11   *2.5)); //F
+      polaLeher1.add(new Node(pg[2].width/20+ 5    *2.5, 250+ 9.5  *2.5)); //E
+      polaLeher1.add(new Node(pg[2].width/20+ 3.5  *2.5, 250+ 3.5  *2.5)); //G
+
+//Pola Kerah Shiller Size L
+      polaLeher1.add(new Node(pg[2].width/20+ 5    *2.5, 250+ 4.5  *2.5)); //C
+      polaLeher1.add(new Node(pg[2].width/20+ 24   *2.5, 250+ 5    *2.5)); //A
+      polaLeher1.add(new Node(pg[2].width/20+ 43   *2.5, 250+ 4.5  *2.5)); //C
+      polaLeher1.add(new Node(pg[2].width/20+ 44.5 *2.5, 250+ 3.5  *2.5)); //G
+      polaLeher1.add(new Node(pg[2].width/20+ 43   *2.5, 250+ 9.5  *2.5)); //E
+      polaLeher1.add(new Node(pg[2].width/20+ 36   *2.5, 250+ 11   *2.5)); //F
+      polaLeher1.add(new Node(pg[2].width/20+ 24   *2.5, 250+ 9.5  *2.5)); //B
+      polaLeher1.add(new Node(pg[2].width/20+ 12   *2.5, 250+ 11   *2.5)); //F
+      polaLeher1.add(new Node(pg[2].width/20+ 5    *2.5, 250+ 9.5  *2.5)); //E
+      polaLeher1.add(new Node(pg[2].width/20+ 3.5  *2.5, 250+ 3.5  *2.5)); //G

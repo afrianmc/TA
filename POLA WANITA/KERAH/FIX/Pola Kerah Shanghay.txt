@@ -1,0 +1,41 @@
+//Pola Kerah Shanghay Size S
+      polaLeher1.add(new Node(pg[2].width/20+ 13.5 *2.5, 250+ 5   *2.5)); //E
+      polaLeher1.add(new Node(pg[2].width/20+ 22   *2.5, 250+ 5   *2.5)); //A
+      polaLeher1.add(new Node(pg[2].width/20+ 30.5 *2.5, 250+ 5   *2.5)); //E
+      polaLeher1.add(new Node(pg[2].width/20+ 40.5 *2.5, 250+ 2.5 *2.5)); //I
+      polaLeher1.add(new Node(pg[2].width/20+ 43   *2.5, 250+ 4   *2.5)); //G
+      polaLeher1.add(new Node(pg[2].width/20+ 41.5 *2.5, 250+ 5   *2.5)); //F
+      polaLeher1.add(new Node(pg[2].width/20+ 30.5 *2.5, 250+ 8   *2.5)); //H
+      polaLeher1.add(new Node(pg[2].width/20+ 22   *2.5, 250+ 8   *2.5)); //B
+      polaLeher1.add(new Node(pg[2].width/20+ 13.5 *2.5, 250+ 8   *2.5)); //H
+      polaLeher1.add(new Node(pg[2].width/20+ 5    *2.5, 250+ 5   *2.5)); //F
+      polaLeher1.add(new Node(pg[2].width/20+ 3.5  *2.5, 250+ 4   *2.5)); //G
+      polaLeher1.add(new Node(pg[2].width/20+ 5.5  *2.5, 250+ 2.5 *2.5)); //I
+
+//Pola Kerah Shanghay Size M
+      polaLeher1.add(new Node(pg[2].width/20+ 14   *2.5, 250+ 5   *2.5)); //E
+      polaLeher1.add(new Node(pg[2].width/20+ 23   *2.5, 250+ 5   *2.5)); //A
+      polaLeher1.add(new Node(pg[2].width/20+ 32   *2.5, 250+ 5   *2.5)); //E
+      polaLeher1.add(new Node(pg[2].width/20+ 42.5 *2.5, 250+ 2.5 *2.5)); //I
+      polaLeher1.add(new Node(pg[2].width/20+ 44   *2.5, 250+ 4   *2.5)); //G
+      polaLeher1.add(new Node(pg[2].width/20+ 43.5 *2.5, 250+ 5   *2.5)); //F
+      polaLeher1.add(new Node(pg[2].width/20+ 32   *2.5, 250+ 8   *2.5)); //H
+      polaLeher1.add(new Node(pg[2].width/20+ 23   *2.5, 250+ 8   *2.5)); //B
+      polaLeher1.add(new Node(pg[2].width/20+ 14   *2.5, 250+ 8   *2.5)); //H
+      polaLeher1.add(new Node(pg[2].width/20+ 5    *2.5, 250+ 5   *2.5)); //F
+      polaLeher1.add(new Node(pg[2].width/20+ 3.5  *2.5, 250+ 4   *2.5)); //G
+      polaLeher1.add(new Node(pg[2].width/20+ 5.5  *2.5, 250+ 2.5 *2.5)); //I
+
+//Pola Kerah Shanghay Size L
+      polaLeher1.add(new Node(pg[2].width/20+ 14.5 *2.5, 250+ 5   *2.5)); //E
+      polaLeher1.add(new Node(pg[2].width/20+ 24   *2.5, 250+ 5   *2.5)); //A
+      polaLeher1.add(new Node(pg[2].width/20+ 33.5 *2.5, 250+ 5   *2.5)); //E
+      polaLeher1.add(new Node(pg[2].width/20+ 43   *2.5, 250+ 2.5 *2.5)); //I
+      polaLeher1.add(new Node(pg[2].width/20+ 45.5 *2.5, 250+ 4   *2.5)); //G
+      polaLeher1.add(new Node(pg[2].width/20+ 44.5 *2.5, 250+ 5   *2.5)); //F
+      polaLeher1.add(new Node(pg[2].width/20+ 33.5 *2.5, 250+ 8   *2.5)); //H
+      polaLeher1.add(new Node(pg[2].width/20+ 24   *2.5, 250+ 8   *2.5)); //B
+      polaLeher1.add(new Node(pg[2].width/20+ 14.5 *2.5, 250+ 8   *2.5)); //H
+      polaLeher1.add(new Node(pg[2].width/20+ 5    *2.5, 250+ 5   *2.5)); //F
+      polaLeher1.add(new Node(pg[2].width/20+ 3.5  *2.5, 250+ 4   *2.5)); //G
+      polaLeher1.add(new Node(pg[2].width/20+ 5.5  *2.5, 250+ 2.5 *2.5)); //I
